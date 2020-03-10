@@ -11,3 +11,7 @@ print((24.95*0.6+3)+24.95*0.6*59+59*0.75)
 n=17
 print(n)
 
+while x>0 and y<0:
+    print('x:','x')
+    print('y:','y')
+    print("condition:",(x>0 and y<0))
